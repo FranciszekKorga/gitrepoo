@@ -1,7 +1,12 @@
 # gitrepoo
 
 Repozyterium dla nam
-
+## Polecenia git-a:
+ 1) *git status* - pokazuje zmiany w repozytoriium
+ 2) git pull - sciaga ewentualne zmiany z repozytorium zdalnego
+ 3) git add . - dodanie plikow i zmian do repozytorium '
+ 4) git commit -"opis zmian" - zatwierzdzenie zmian
+ 5) git push - wysylanie zmian  do repozytorium zdlanego
 
 
 
